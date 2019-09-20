@@ -1,0 +1,8 @@
+prefix=/home/doylewhy/efficient/forcePosition/forcepositiontest3/install
+
+Name: ur5_gazebo
+Description: Description of ur5_gazebo
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/doylewhy/efficient/forcePosition/forcepositiontest3/install/lib 
+Requires: 

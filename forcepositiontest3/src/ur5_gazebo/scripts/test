@@ -1,0 +1,2 @@
+rostopic pub /ur_5/trajectory_controller/command trajectory_msgs/JointTrajectory '{joint_names: ["shoulder_pan_joint","shoulder_lift_joint","elbow_joint","wrist_1_joint","wrist_2_joint","wrist_3_joint"], points: [{positions:[0,0,0,0,0,0],velocities:[0.2,0.2,0.2,0.2,0.2,0.2],time_from_start: [3.0,0]}]}' -1
+publishing and latching message for 3.0 seconds

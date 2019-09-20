@@ -1,0 +1,2 @@
+robotiq_description:ur5_description:ur5_gazebo
+-G CodeBlocks - Unix Makefiles -DCMAKE_BUILD_TYPE=Debug -DCATKIN_DEVEL_PREFIX=/home/doylewhy/efficient/forcePosition/forcepositiontest3/devel -DCMAKE_INSTALL_PREFIX=/home/doylewhy/efficient/forcePosition/forcepositiontest3/install
